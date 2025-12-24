@@ -1,0 +1,20 @@
+{
+  "short_name": "FocusFlow",
+  "name": "FocusFlow Habit Tracker",
+  "icons": [
+    {
+      "src": "logo.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#f3f4f6"
+}
