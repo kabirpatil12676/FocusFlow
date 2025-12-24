@@ -33,5 +33,18 @@ I built this project to solve my own problem with maintaining routine and focus 
 👉 https://focusflow-eb3b1.firebaseapp.com/
 
 ---
+FocusFlow/
+│── public/ # Frontend files
+│── .github/workflows/ # GitHub Actions (if any)
+│── firebase.json # Firebase hosting config
+│── .firebaserc # Firebase project config
+│── README.md
+---
 
+## 🚀 Getting Started (Local Setup)
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/kabirpatil12676/FocusFlow.git
+cd FocusFlow
 
